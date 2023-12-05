@@ -1,3 +1,6 @@
 [submodule "FrontendSEAP"]
 	path = FrontendSEAP
 	url = https://github.com/BenrriXWorks/FrontendSEAP.git
+[submodule "BackendSEAP"]
+	path = BackendSEAP
+	url = https://github.com/SBlader/BackendSEAP.git
