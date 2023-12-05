@@ -1,0 +1,3 @@
+[submodule "FrontendSEAP"]
+	path = FrontendSEAP
+	url = https://github.com/BenrriXWorks/FrontendSEAP.git
